@@ -107,6 +107,11 @@
     </reporting>
 
     <dependencies>
+         <dependency>
+	         <groupId>org.springframework</groupId>
+	         <artifactId>spring-core</artifactId>
+	         <version>4.1.1.RELEASE</version>
+         </dependency>
         <dependency>
             <groupId>org.apache.struts</groupId>
             <artifactId>struts2-core</artifactId>
